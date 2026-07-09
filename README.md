@@ -16,7 +16,26 @@ It then asks the user to enter a specific number to check for repetitions; the p
 #Pass by Reference (`&`): Modifying the array size from within a function so the change is reflected in `main`.
 
 ------------
+####Execution Example####
 
+Enter number of elements:
+5
+
+Enter array elements:
+Element [1] : 1
+Element [2] : 1
+Element [3] : 1
+Element [4] : 3
+Element [5] : 2
+
+Enter the number you want to check:
+1
+
+Original array: 1 1 1 3 2
+
+Number 1 is repeated 3 time(s)
+
+____________________________________________________________
 
 
 
