@@ -1,41 +1,22 @@
-# Course-05-Problem-Solving-Level-2
+# 🚀 Abu-Hadhoud Problem Solving - Level 05
 
+Welcome to my repository dedicated to mastering problem-solving and algorithmic thinking! This repository serves as a documented journey of my progress through **Level 05** of the comprehensive software engineering curriculum by **Dr. Mohammed Abu-Hadhoud**.
 
-Solutions to the Level 2 programming problems from Engineer Mohamed Abu-Hadhoud "Algorithms and Problem Solving" course.
-#Problem Description: 
-#The issue presents a software problem that we want to solve using the divide-and-conquer principle.
-#A program that asks the user to specify the number of elements to store and then input them one by one.
-It then asks the user to enter a specific number to check for repetitions; the program prints the elements entered by the user and displays the frequency of the specified number.
+## 🎯 About This Level
+Level 05 focuses heavily on deepening fundamental programming concepts, enhancing logical reasoning, and building a solid foundation in breaking down complex problems into clean, efficient, and maintainable code. 
 
------------
+## 📂 Repository Structure
+The solutions are organized systematically to keep the repository clean and scalable:
+* Each problem is named clearly according to its core concept or objective.
+* Code is written with a focus on readability and clean coding practices.
 
-## 🛠️ Key Programming Concepts
+## 🛠️ Tech Stack & Tools
+* **Language:** C++ (or the language you are using, e.g., C# / Python)
+* **Version Control:** Git & GitHub (Managed via Terminal)
+* **IDE/Text Editor:** VS Code / Visual Studio
 
-#Input Validation:Validating input and preventing negative numbers using a `do-while` loop.
-#Arrays & Functions: Structuring the program into separate functions that handle arrays.
-#Pass by Reference (`&`): Modifying the array size from within a function so the change is reflected in `main`.
+## 📈 My Goal
+My ultimate goal is to complete the entire problem-solving track, transition from simple logic exercises to complex data structures and algorithms, and continuous self-improvement as a Software Engineer.
 
-------------
-####Execution Example####
-
-Enter number of elements:
-5
-
-Enter array elements:
-Element [1] : 1
-Element [2] : 1
-Element [3] : 1
-Element [4] : 3
-Element [5] : 2
-
-Enter the number you want to check:
-1
-
-Original array: 1 1 1 3 2
-
-Number 1 is repeated 3 time(s)
-
-____________________________________________________________
-
-
-
+---
+*“First, solve the problem. Then, write the code.” – John Johnson*
